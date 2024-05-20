@@ -1,0 +1,93 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.header {
+  background-image: url(https://res.cloudinary.com/dnb6x004q/image/upload/v1715954039/Rectangle_256_eb6ewd.png);
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.header img {
+  margin: auto;
+  display: block;
+}
+.header p {
+  margin: auto;
+  display: block;
+  text-align: center;
+  background-color: #151515;
+  width: 10%;
+  border-radius: 10px;
+  font-size: small;
+}
+.header h1 {
+  margin: auto;
+  display: block;
+  display: flex;
+  justify-content: center;
+  font-weight: 1000;
+}
+.header button {
+  border-radius: 30px;
+  padding: 10px;
+  background-color: white;
+  margin: auto;
+  display: block;
+}
+.service {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background-color: grey;
+  width: 30%;
+  border-radius: 15px;
+}
+.card img {
+  border-radius: 4px;
+}
+.car {
+  background-color: grey;
+  width: 30%;
+  border-radius: 15px;
+}
+.cardo {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.been {
+  background-color: yellow;
+  margin: auto;
+  display: block;
+  /* background-color: white; */
+  border-radius: 20px;
+  padding: 10px 15px;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  gap: 125px;
+  margin-bottom: 20px;
+}
+
+.container {
+  background-image: url(https://res.cloudinary.com/dnb6x004q/image/upload/v1715954039/Rectangle_256_eb6ewd.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  /* margin-bottom: 20px; */
+}
+.container button {
+  margin: auto;
+  display: block;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
